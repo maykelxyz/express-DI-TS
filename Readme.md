@@ -46,8 +46,14 @@ A lightweight, scalable Express.js boilerplate with TypeScript and Dependency In
 1. Clone the repository
 
 ```bash
-git clone https://github.com/maykelxyz/express-di-ts.git
-cd express-express-di-ts
+# Using npx (recommended)
+npx create-express-di-ts my-app
+
+# Using npm
+npm init create-express-di-ts my-app
+
+# Using yarn
+yarn cr
 ```
 
 2. Install dependencies
